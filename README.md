@@ -3,9 +3,6 @@
 ## Project Overview
 This GitHub repository contains the source code and documentation for the "Online Store Simulator," an innovative system designed to facilitate online shopping and delivery services. The system acts as a mediator connecting consumers, suppliers, and delivery services, streamlining the process of online purchasing of goods.
 
-## Supervising Professor
-- Gv.Phạm Minh Tú
-
 ## Project Details
 The Online Store Simulator was developed as part of the "Modern Information Systems Application Development" course, focusing on creating a realistic simulation of an online marketplace, including functionalities such as product browsing, ordering, shipping, and payment processing.
 
